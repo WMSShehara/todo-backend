@@ -54,6 +54,7 @@ const openDb = (): Pool => {
         // database: 'todoo',
         // password:'1234',
         // port: 5432
+
         user:'root',
         host:'dpg-cgbenoo2qv267u8c6430-a.oregon-postgres.render.com',
         database:'todoo',
